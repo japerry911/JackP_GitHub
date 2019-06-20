@@ -1,7 +1,3 @@
-//Cheating Hangman Assignment 6
-//John Jack Perry
-//Cyber Programing II
-
 #include <iostream>
 #include "Hangman.h"
 #include <string>
