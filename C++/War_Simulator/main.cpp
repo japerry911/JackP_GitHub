@@ -1,11 +1,3 @@
-/*
- * Assignment 2
- * John (Jack) Perry
- * Cyber-Coding II
- * Professor: Will Mitchell
- */
-
-
 #include <iostream>
 #include "Card.h"
 #include "War.h"
