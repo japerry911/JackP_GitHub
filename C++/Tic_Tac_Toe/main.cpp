@@ -1,7 +1,3 @@
-//Assignment 1
-//Developed by John (Jack) Perry
-//Cyber Coding II
-
 #include <iostream>
 #include <vector>
 #include <string>
