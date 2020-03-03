@@ -1,7 +1,3 @@
-//
-// Created by Will Mitchell on 2019-03-31.
-//
-
 #include "WordList.h"
 
 #include <algorithm>
