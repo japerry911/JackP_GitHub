@@ -1,6 +1,3 @@
-//Assignment 3
-//John (Jack) Perry
-
 #include <iostream>
 #include <string>
 #include <fstream>
