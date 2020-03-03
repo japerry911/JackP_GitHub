@@ -1,7 +1,3 @@
-# PyLatin Assignment
-# Jack Perry
-# ID: 872772881
-
 """
 PyLatin Rules ->
   1.) If the word has non-alphabetic letter then return ValueError
