@@ -1,7 +1,3 @@
-//Assignment 1
-//John (Jack) Perry
-//Cyber Coding II
-
 #include "Board.h"
 
 #include<iostream>
